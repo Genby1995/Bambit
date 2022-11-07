@@ -16,10 +16,9 @@
 - анимированная кнопка "бургер" раскрытия бокового меню.
 - раскрытие бокового меню, всплывающая подсказка и раскрытие пунктов FAQ реализованно на JavaScript.
 
-![menu](https://user-images.githubusercontent.com/105170642/200370353-bd32ddb6-970c-4f8e-b2be-c385387c2bfd.png)
-![mobile](https://user-images.githubusercontent.com/105170642/200370372-e47a6c48-8486-4688-9ac6-134ae78940a6.png)
-![tablet](https://user-images.githubusercontent.com/105170642/200370381-d41fa787-de39-4c84-a298-9ba00caebd26.png)
-![desktop](https://user-images.githubusercontent.com/105170642/200370384-a1577809-3bb3-421f-91c3-0a7d39d8a296.png)
-
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/105170642/200370353-bd32ddb6-970c-4f8e-b2be-c385387c2bfd.png" height="400" />
+  <img src="https://user-images.githubusercontent.com/105170642/200370372-e47a6c48-8486-4688-9ac6-134ae78940a6.png" height="400" />
+  <img src="https://user-images.githubusercontent.com/105170642/200370381-d41fa787-de39-4c84-a298-9ba00caebd26.png" height="400" />
+  <img src="https://user-images.githubusercontent.com/105170642/200370384-a1577809-3bb3-421f-91c3-0a7d39d8a296.png" height="400" />
+</p>
