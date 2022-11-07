@@ -1,0 +1,46 @@
+@font-face {
+	font-family: 'Karmatic Arcade';
+	font-weight: normal;
+	font-style: normal;
+	src: url('Karmatic_Arcade/KarmaticArcade.eot');
+	src: local('Karmatic Arcade'), local('KarmaticArcade'),
+		url('Karmatic_Arcade/KarmaticArcade.eot?#iefix') format('embedded-opentype'),
+		url('Karmatic_Arcade/KarmaticArcade.woff') format('woff'),
+		url('Karmatic_Arcade/KarmaticArcade.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+	font-weight: normal;
+    font-style: normal;
+    src: url('Ubuntu/Ubuntu-Medium.eot');
+    src: local('Ubuntu Regular'), local('Ubuntu-Regular'),
+        url('Ubuntu/Ubuntu-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Ubuntu/Ubuntu-Regular.woff') format('woff2'),
+        url('Ubuntu/Ubuntu-Regular.woff') format('woff'),
+        url('Ubuntu/Ubuntu-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+	font-weight: 500;
+    font-style: normal;
+    src: url('Ubuntu/Ubuntu-Medium.eot');
+    src: local('Ubuntu Medium'), local('Ubuntu-Medium'),
+        url('Ubuntu/Ubuntu-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Ubuntu/Ubuntu-Medium.woff2') format('woff2'),
+        url('Ubuntu/Ubuntu-Medium.woff') format('woff'),
+        url('Ubuntu/Ubuntu-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: normal;
+    src: url('Roboto/Roboto-Regular.eot');
+    src: local('Roboto'), local('Roboto-Regular'),
+        url('Roboto/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Roboto/Roboto-Regular.woff2') format('woff2'),
+        url('Roboto/Roboto-Regular.woff') format('woff'),
+        url('Roboto/Roboto-Regular.ttf') format('truetype');
+}
