@@ -5,6 +5,7 @@
 
 Данный проект представляет собой страницу с ответами на вопросы, которую можно просматривать на десктопных и мобильных устройствах.
 
+
 Реализованы следуюшие функции:
 
 - отзывчивая страница с измением содержания шапки, шрифта, добавления бокового меню. В боковом меню ховеры отменены (использование на мобильных устройтсвах).
@@ -19,3 +20,6 @@
 ![mobile](https://user-images.githubusercontent.com/105170642/200370372-e47a6c48-8486-4688-9ac6-134ae78940a6.png)
 ![tablet](https://user-images.githubusercontent.com/105170642/200370381-d41fa787-de39-4c84-a298-9ba00caebd26.png)
 ![desktop](https://user-images.githubusercontent.com/105170642/200370384-a1577809-3bb3-421f-91c3-0a7d39d8a296.png)
+
+Маленький (small):  
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
